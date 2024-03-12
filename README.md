@@ -3,12 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayamuhamma1d&label=Profile%20views&color=0e75b6&style=flat" alt="ayamuhamma1d" /> </p>
 
-- 🔭 I’m currently working on **freelancer**
+- 🔭 I’m currently working  **freelancer**
 
 - 🌱 I’m currently learning **Next.js ,vue & Nuxt.js**
 
 - 💬 Ask me about **react,angular,vue**
-
+- 📫 How to reach me aya676670@gmail.com
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
