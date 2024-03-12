@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aya Muhammad</h1>
 <p align="left">A passionate frontend developer from Egypt.I am a Front End Developer with one year of industry experience. My skill set includes a strong understanding of HTML, CSS, and JavaScript, alongside expertise in front-end frameworks such as Angular. I have successfully completed a diverse range of projects, spanning from small business websites to large-scale web applications. Throughout my career, I have consistently proven my ability to deliver exceptional quality work promptly and within budget.</h3>
 
-,img align="right" alt="Coding" width="400" src="https://i.gifer.com/JXA0.gif".
+<img align="right" alt="Coding" width="500" src="https://i.gifer.com/JXA0.gif">
 
 - 🔭 I’m currently working  **freelancer**
 
