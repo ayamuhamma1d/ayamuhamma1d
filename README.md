@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aya Muhammad</h1>
-<h3 align="center">A passionate frontend developer from Egypt.I am a Front End Developer with one year of industry experience. My skill set includes a strong understanding of HTML, CSS, and JavaScript, alongside expertise in front-end frameworks such as Angular. I have successfully completed a diverse range of projects, spanning from small business websites to large-scale web applications. Throughout my career, I have consistently proven my ability to deliver exceptional quality work promptly and within budget.</h3>
+<p align="left">A passionate frontend developer from Egypt.I am a Front End Developer with one year of industry experience. My skill set includes a strong understanding of HTML, CSS, and JavaScript, alongside expertise in front-end frameworks such as Angular. I have successfully completed a diverse range of projects, spanning from small business websites to large-scale web applications. Throughout my career, I have consistently proven my ability to deliver exceptional quality work promptly and within budget.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayamuhamma1d&label=Profile%20views&color=0e75b6&style=flat" alt="ayamuhamma1d" /> </p>
 
