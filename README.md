@@ -9,6 +9,7 @@
 
 - 💬 Ask me about **react,angular,vue**
 - 📫 How to reach me aya676670@gmail.com
+- 📞 My phone number:01284858897 
 - ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
